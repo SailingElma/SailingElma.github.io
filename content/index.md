@@ -1,5 +1,6 @@
 ---
 title: Les aventures d'Elma
+comments: false
 ---
 
 Bienvenue sur le blog d'Elma !
