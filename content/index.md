@@ -7,7 +7,7 @@ Bienvenue sur le blog d'Elma !
 
 Suivez nos aventures à bord d'[[Elma]] de la Bretagne jusqu'au Japon.
 
-## Carte de la trajectoire prévue :
+## [[Trajet | Carte de la trajectoire prévue]] :
 
 <iframe class="fullwidth-map" src="/static/map.html" title="Route map"></iframe>
 
@@ -33,6 +33,7 @@ Suivez nos aventures à bord d'[[Elma]] de la Bretagne jusqu'au Japon.
   document.addEventListener("nav", start);
 })();
 </script>
+
 
 
 ## Ou est Elma ?

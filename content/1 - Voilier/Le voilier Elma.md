@@ -1,27 +1,35 @@
+
+---
+title: Le voilier Elma
+comments: false
+---
+
 Elma est un First 35 PTE (Bénéteau) de 1981. 
 
 ![[bar.jpeg]]
 
 | Paramètres               |                                        |
 | :----------------------- | :------------------------------------: |
-| Longueur                 |                10.77 m                 |
+| Longueur                 |                10,77 m                 |
 | Largeur                  |                 3,70 m                 |
 | Longueur à la flottaison |                 9,15 m                 |
 | Matériau (coque)         | Stratifié verre-polyester monolithique |
 | Lest                     |           Quille (2 200 kg)            |
 | Déplacement lège         |                6 150 kg                |
-| Tirant d'eau             |                 1.40 m                 |
+| Tirant d'eau             |                 1,40 m                 |
 | Grément                  |             Sloop en tête              |
+
 ![[plan.webp | center]]
 
-## Voiles
+## Voiles 
 
-Grand-voile: full-batten 28 m²
-Génois: 44 m²
-Spi, Foc, Tourmentin
+- Grand-voile: full-batten 28 m²
+- Génois: 44 m²
+- Spi, Foc, Tourmentin
+
 ## Moteur
 
-**BetaMarine 30 **
+**BetaMarine 30**
 - Diesel
 - 30 cv
 - Ligne d'arbre

@@ -21,5 +21,6 @@
 | Philippines                       |              |                       |                  | décembre à mars              | avril à décembre  |
 | Taiwan                            | 1300         | 1er avril             | 13 avril         | janvier à mars               | toute l'année     |
 | Japon (Tokyo)                     | 1100         | 1er mai               | 11 mai           | mai                          | mai à décembre    
+
 *La vitesse de référence d'Elma est de 100 milles nautiques par jour. Cette vitesse intègre une marge d'erreur par rapport à notre vitesse moyenne de 5 knts.*
 *Les périodes recommandées sont issues de l'indispensable "Routes de grande croisière" de Jimmy Cornell*
