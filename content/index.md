@@ -5,7 +5,7 @@ comments: false
 
 Bienvenue sur le blog d'Elma !
 
-Suivez nos aventures à bord d'[[Elma]] de la Bretagne jusqu'au Japon.
+Suivez nos aventures à bord d'[[Le voilier Elma | Elma]] de la Bretagne jusqu'au Japon.
 
 ## [[Trajet | Carte de la trajectoire prévue]] :
 
