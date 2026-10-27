@@ -208,10 +208,10 @@ plugins:
     options:
       provider: giscus
       options:
-        repo: TODO:username/repo-name
-        repoId: TODO:your-repo-id
+        repo: SailingElma/SailingElma.github.io
+        repoId: R_kgDOVY_I9w
         category: Announcements
-        categoryId: TODO:your-category-id
+        categoryId: DIC_kwDOVY_I984DJvZx
         mapping: url
         strict: true
         reactionsEnabled: true
