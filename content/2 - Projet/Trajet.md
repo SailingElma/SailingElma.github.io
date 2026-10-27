@@ -1,0 +1,1 @@
+<iframe class="fullwidth-map" src="/static/map.html" title="Route map"></iframe>
