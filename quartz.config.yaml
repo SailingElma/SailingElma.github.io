@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: marinmarcillat.github.io
+  baseUrl: SailingElma.github.io
   ignorePatterns:
     - private
     - templates
