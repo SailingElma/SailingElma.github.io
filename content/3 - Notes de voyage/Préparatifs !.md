@@ -1,1 +1,1 @@
-Cette note est la première du voyage.
+Ce site est encore en cours de construction, il sera alimenté sous peu.

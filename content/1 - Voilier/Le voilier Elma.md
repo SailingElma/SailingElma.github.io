@@ -10,13 +10,15 @@ Elma est un First 35 PTE (Bénéteau) de 1981.
 
 | Paramètres               |                                        |
 | :----------------------- | :------------------------------------: |
+| Architecte               |                 Berret                 |
 | Longueur                 |                10,77 m                 |
 | Largeur                  |                 3,70 m                 |
 | Longueur à la flottaison |                 9,15 m                 |
 | Matériau (coque)         | Stratifié verre-polyester monolithique |
+| Matériau (pont)          |     Sandwich polyester balsa, Teck     |
 | Lest                     |           Quille (2 200 kg)            |
 | Déplacement lège         |                6 150 kg                |
-| Tirant d'eau             |                 1,40 m                 |
+| Tirant d'eau             |              1,40 m (PTE)              |
 | Grément                  |             Sloop en tête              |
 
 ![[plan.webp | center]]
@@ -24,8 +26,9 @@ Elma est un First 35 PTE (Bénéteau) de 1981.
 ## Voiles 
 
 - Grand-voile: full-batten 28 m²
-- Génois: 44 m²
-- Spi, Foc, Tourmentin
+- Génois: 44 m², sur enrouleur
+- Foc, Tourmentin sur étai largable
+- Spi
 
 ## Moteur
 
@@ -37,7 +40,7 @@ Elma est un First 35 PTE (Bénéteau) de 1981.
 **Réservoirs**:
 - 150 l + bidon 20 l
 
-## [[Electricité]]
+## Electricité
 
 **Solaire:**
 - 2 panneaux fixes sur portique (2x150 w)
@@ -47,14 +50,22 @@ Elma est un First 35 PTE (Bénéteau) de 1981.
 - Aquagen (Hélice sur filin)
 
 **Batteries:**
-- Batterie service: 314 Ah LiFePo4
-- Batterie moteur: 90 Ah Plomb
+- 12V
+- Batterie service: 314 Ah, LiFePo4
+- Batterie moteur: 90 Ah, Plomb
+
+## Télécommunications
+
+- Iridium GO (internet et tracking)
+- VHF fixe et portable
+- Récepteur HF (fax météo, navtex)
 
 ## Eau 
 
 **Réservoirs:**
 - Principal 250 l
 - Auxiliaire 50 l
+- Bidons 2x20 l
 
 **Déssalinisateur:**
 - Katadyn PowerSurvivor 40E
@@ -62,10 +73,10 @@ Elma est un First 35 PTE (Bénéteau) de 1981.
 
 ## Sécurité
 
-**Radeau de survie**
+**Radeau de survie** CrewSaver hauturier 6 places
 
-**Balise EPIRB**
+**Balise EPIRB** ACR GlobalFix V5
 
-**Balises AIS individuelles**
+**Balises AIS individuelles** sur gilet
 
 
